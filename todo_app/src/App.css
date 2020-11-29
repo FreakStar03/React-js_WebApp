@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem{
+
+  text-align: center;
+  color :red;
+
+}
+
+.unorderlist{
+  padding: 0;
+  margin: 0;
+}
+
+.listMain{
+  width: 100%;
+  background-color: lightyellow;
+  border-top: solid black 1px; 
+  border-bottom:solid black 1px; 
+
+}
